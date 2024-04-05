@@ -19,7 +19,7 @@
   
 ## 🥇 Certifications
 <p align="center">
-  <img src="https://raw.githubusercontent.com//bhagyashreemsahu/bhagyashreemsahu/master/ISTQB.png" alt="Bhagyashree | ISTQB" width="100 px"/>
+  <img src="https://raw.githubusercontent.com//bhagyashreemsahu/bhagyashreemsahu/master/istqb img.png" alt="Bhagyashree | ISTQB" width="100 px"/>
 </p>
 
 ## 🔭 I'm currently working on
