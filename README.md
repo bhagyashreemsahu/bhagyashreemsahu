@@ -12,14 +12,14 @@
 
 <p align="center">
   <a href="http://www.linkedin.com/in/bhagyashree-sahu">
-    <img src="https://raw.githubusercontent.com/bhagyashreemsahu/bhagyashreemsahu/master/images/linkedin.svg" alt="Bhagyashree Sahu | LinkedIn" width="21px"/>
+    <img src="https://raw.githubusercontent.com/bhagyashreemsahu/bhagyashreemsahu/master/linkedin.svg" alt="Bhagyashree Sahu | LinkedIn" width="21px"/>
   </a>
  
 </p>
   
 ## 🥇 Certifications
 <p align="center">
-  <img src="https://raw.githubusercontent.com//bhagyashreemsahu/bhagyashreemsahu/master/images/ISTQB.png" alt="Bhagyashree | ISTQB" width="100 px"/>
+  <img src="https://raw.githubusercontent.com//bhagyashreemsahu/bhagyashreemsahu/master/ISTQB.png" alt="Bhagyashree | ISTQB" width="100 px"/>
 </p>
 
 ## 🔭 I'm currently working on
