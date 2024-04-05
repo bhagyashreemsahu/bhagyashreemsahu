@@ -6,18 +6,10 @@
 
 <h3 align="center">Hi there, I'm <a href="http://www.linkedin.com/in/bhagyashree-sahu" target="_blank" rel="noreferrer">Bhagyashree</a> 👋</h3>
 
-<h2 align="center">I'm a Software Development Engineer in Test (SDET) 😊. Feel free to contact me for remote job opportunities or freelance projects. </h2>
+<h2 align="center">I'm a Software Development Engineer in Test (SDET). Feel free to contact me for remote job opportunities or freelance projects. </h2>
 
-### 🤝 Connect with me:
-
-<p align="center">
-  <a href="http://www.linkedin.com/in/bhagyashree-sahu">
-    <img src="https://raw.githubusercontent.com/bhagyashreemsahu/bhagyashreemsahu/master/linkedin.svg" alt="Bhagyashree Sahu | LinkedIn" width="21px"/>
-  </a>
- 
-</p>
   
-## 🥇 Certifications
+## 🥇 Certification
 <p align="center">
   <img src="https://raw.githubusercontent.com//bhagyashreemsahu/bhagyashreemsahu/master/ISTQB1.png" alt="Bhagyashree | ISTQB" width="100 px"/>
 </p>
@@ -77,12 +69,13 @@ coverage </b>
 
 ## Contact
 
-<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:bhagyashree25.sahu@gmail.com">bhagyashree25.sahu@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:bhagyashree25.sahu@gmail.com">bhagyashree25.sahu@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/bhagyashree-sahu/">LinkedIn</a>.</p>
 
-<p align="center">
-  <a href="http://www.linkedin.com/in/bhagyashree-sahu/">
+  <p align="center">
+  <a href="http://www.linkedin.com/in/bhagyashree-sahu">
+    <img src="https://raw.githubusercontent.com/bhagyashreemsahu/bhagyashreemsahu/master/LinkedinImg.png" alt="Bhagyashree Sahu | LinkedIn" width="21px"/>
   </a>
+ 
 </p>
-  
 
 <p align="center">Thank you for visiting my portfolio! I look forward to discussing how I can contribute to your projects and initiatives.</p>
