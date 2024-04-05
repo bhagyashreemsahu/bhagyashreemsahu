@@ -1,6 +1,6 @@
 <p align="center">
  // ![Header](./[github-header-image.png])
-  <a href="https://www.linkedin.com/in/jatinshharma/" target="_blank" rel="noreferrer">
+  <a href="http://www.linkedin.com/in/bhagyashree-sahu" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/bhagyashreemsahu/bhagyashreemsahu/master/github-header-image.png" alt="My banner">
   </a>
 </p>
