@@ -43,7 +43,7 @@ coverage </b>
 
 ## 💻 My Projects 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhagyashreemsahu&repo=RestAssuredAutomationFramework)](https://github.com/bhagyashreemsahu/RestAssuredAutomationFramework)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhagyashreemsahu&repo=SampleRestAssuredAutomationFramework)](https://github.com/bhagyashreemsahu/SampleRestAssuredAutomationFramework)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhagyashreemsahu&repo=postman-api-testing)](https://github.com/bhagyashreemsahu/postman-api-testing)
 
 ## 💼 Technical Skills
